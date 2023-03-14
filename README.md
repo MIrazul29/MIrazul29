@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mirazul
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on research work related to computer vision, robotics and healthcare
 - 📫 How to reach me k.mirazulmumenin@gmail.com
 
 <!---
